@@ -1,0 +1,12 @@
+Agenda:
+
+1) set up github repository first
+2) create environment in project folder using below command
+      conda create -p venv python==3.8 -y
+    
+3) create Readme file add,commit and push to github
+4) create .gitignore in github and pull 
+5) create requirements.txt file contains all required pacakages
+6) create setup.py file that create as package for your project
+7) Src folder create with __init__.py file
+8) run command pip install -r requirements.txt
